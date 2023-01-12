@@ -14,4 +14,4 @@ ingresar con las siguientes credenciales de "adminsitrador"
 usaurio: admin@correo.com
 contraseña: 123qweasd
 
-(opcional).- en caso de quere crear mas productos dirigirge a /productos (no se dejo visible ya que no fue solicitada)
+(opcional).- en caso de quere crear mas productos dirigirse a /productos (no se dejo visible ya que no fue solicitada)
